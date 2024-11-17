@@ -110,6 +110,7 @@ header {
   border: none;
   font-size: 25px;
   background-color: #ffffff;
+  color: black;
   min-width: 35px;
   min-height: 35px;
   width: 35px;
@@ -303,6 +304,7 @@ h3 {
   border: none;
   border-radius: 5px;
   background-color: #ebf2f5;
+  color: black;
   transition: background-color 0.2s ease;
 }
 
