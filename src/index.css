@@ -196,6 +196,7 @@ nav input:focus {
   width: 100%;
   padding: 20px 10px;
   background-color: #ebf2f5;
+  color: black;
   transition: background-color 0.2s ease;
 }
 
@@ -380,7 +381,6 @@ h6 {
   padding: 2rem 1rem;
   gap: 2rem;
   background-color: white;
-  color: black;
 }
 
 
